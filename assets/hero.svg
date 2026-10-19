@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
+<title id="title">FML / DEV</title>
+<desc id="desc">A minimal terminal-inspired identity. Small steps. Clear documentation.</desc>
+<rect x="1" y="1" width="958" height="238" rx="18" fill="#0B1220" stroke="#8FA4BC"/>
+<path d="M32 53H928" stroke="#17263B" stroke-width="2"/>
+<g fill="#8FA4BC"><circle cx="36" cy="28" r="3"/><circle cx="49" cy="28" r="3"/><circle cx="62" cy="28" r="3"/></g>
+<g font-family="Consolas, Liberation Mono, monospace">
+<text x="86" y="34" fill="#8FA4BC" font-size="15">~/work</text>
+<text x="36" y="130" fill="#F4F7FC" font-size="62" font-weight="700" letter-spacing="-3">FML <tspan fill="#60C8F2">/</tspan> DEV</text>
+<text x="38" y="184" fill="#8FA4BC" font-size="23">Small steps. Clear documentation.</text>
+</g>
+<g fill="none" stroke="#60C8F2" stroke-width="7" stroke-linecap="square"><path d="M791 91L823 123L791 155"/><path d="M846 156H884"/></g>
+<path d="M38 211H96" stroke="#60C8F2" stroke-width="3"/>
+</svg>
