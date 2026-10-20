@@ -1,14 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
-<title id="title">FML / DEV</title>
-<desc id="desc">A minimal terminal-inspired identity. Small steps. Clear documentation.</desc>
-<rect x="1" y="1" width="958" height="238" rx="18" fill="#0B1220" stroke="#17263B"/>
-<path d="M32 53H928" stroke="#17263B" stroke-width="2"/>
-<g fill="#8FA4BC"><circle cx="36" cy="28" r="3"/><circle cx="49" cy="28" r="3"/><circle cx="62" cy="28" r="3"/></g>
-<g font-family="Consolas, Liberation Mono, monospace">
-<text x="86" y="34" fill="#8FA4BC" font-size="15">~/work</text>
-<text x="36" y="130" fill="#F4F7FC" font-size="62" font-weight="700" letter-spacing="-3">FML <tspan fill="#60C8F2">/</tspan> DEV</text>
-<text x="38" y="184" fill="#8FA4BC" font-size="23">Small steps. Clear documentation.</text>
-</g>
-<g fill="none" stroke="#60C8F2" stroke-width="7" stroke-linecap="square"><path d="M791 91L823 123L791 155"/><path d="M846 156H884"/></g>
-<path d="M38 211H96" stroke="#60C8F2" stroke-width="3"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="214" viewBox="0 0 680 214" role="img" aria-labelledby="title desc">
+<title id="title">Hola, soy Facundo</title><desc id="desc">FML / DEV. Welcome to my little corner of GitHub. A crescent moon and violet stars frame the greeting.</desc>
+<g fill="none" stroke="#D9CBE9" stroke-width="1"><path d="M65 40H244M436 40H615"/><path d="M150 198H530"/></g>
+<path d="M350 24a16 16 0 1 0 12 27a14 14 0 0 1-12-27" fill="#5D3290"/>
+<g fill="#A32F68"><path d="M281 33l2 5 5 2-5 2-2 5-2-5-5-2 5-2z"/><path d="M399 33l2 5 5 2-5 2-2 5-2-5-5-2 5-2z"/>
+<circle cx="303" cy="29" r="1.8"/><circle cx="377" cy="52" r="1.8"/></g>
+<g font-family="Consolas, Liberation Mono, monospace" text-anchor="middle">
+<text x="340" y="104" fill="#5D3290" font-size="35" font-weight="700">Hola, soy Facundo</text>
+<text x="340" y="140" fill="#A32F68" font-size="15" letter-spacing="4">FML / DEV</text>
+<text x="340" y="175" fill="#685977" font-size="16">Welcome to my little corner of GitHub.</text>
+</g></svg>

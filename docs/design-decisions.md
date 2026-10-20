@@ -1,28 +1,25 @@
-# FML / DEV — design decisions
+# FML / DEV — centered violet edition
 
-## Evidence and scope
+## Direction
 
-Only the profile repository is changed. The public profile identifies its owner as Facundo. Full name, education, professional title, employment history and contact details remain unconfirmed and are omitted.
+Requested reference: https://github.com/micaw21 (profile and source README reviewed). This edition uses a centered greeting, a violet/pink palette, celestial ornament, compact technology symbols and a centered contact button. Artwork, copy and SVG implementations are original. No reference artwork, personal information or social destinations are reused.
 
-The reviewed main branches support one substantive candidate: moodle_actualizacion. Its PHP template selects MariaDB, and its PowerShell helper wraps Moodle CLI commands. Its upgrade log contains placeholders. The profile labels the collaborative work in progress and claims neither completed migrations nor individual authorship of the team's implementation. Frontend/backend placeholders are not featured. The taller1 ZIP was not inspected.
+The large framed terminal banner is replaced with a transparent greeting. The two variants use dark text on light backgrounds and light text on dark backgrounds. The small moon/star ornament provides the single decorative motif. There is no animation, remote font, generated statistics, visitor counter, trophy, Spotify integration or contribution snake. Several external widgets on the reference failed to load during inspection; all image dependencies here are local.
 
-## Visual direction
+## Content and evidence
 
-Midnight #0B1220, Graphite #17263B, Cyan #60C8F2, White #F4F7FC and Steel #8FA4BC form the palette. Both theme variants retain a dark banner; the light variant has a darker outer border. The 4:1 hero contains branding rather than essential biography, which remains selectable Markdown below it. Content inherits GitHub's native theme and flows in one column.
+The name Facundo and GitHub link are verified public information. Other identity, education, employment and contact information remains unconfirmed. The greeting is in Spanish, reflecting the requested reference; body copy stays English as requested in the original brief. The About paragraph stays between 60 and 90 words.
 
-The single creative signature, fml --next, expresses explore → build → document. It is static decoration, not an executable command, live status or metric. No motion fallback is needed. SVGs include titles/descriptions and README images have alternative text. Essential information is not embedded in images.
+The Moodle upgrade workflow is still the sole featured project. Its collaborative and in-progress status is visible. PHP and PowerShell are evidenced by the configuration template and CLI helper; MariaDB is selected in that template. Git branching and team handoffs are documented. No completed migration or individual authorship of the team's work is claimed.
 
-## Content
+## Layout and accessibility
 
-Technology labels describe evidence rather than proficiency. Moodle is a platform, and MariaDB is described as configuration rather than demonstrated administration expertise. One project is featured because the audit did not support two completed projects. GitHub is the only verified professional link. No external statistics service, badges service, remote font, JavaScript, iframe, token or scheduled workflow is necessary.
+The technology symbols are original illustrative pictograms, not vendor logos. Each tile has a visible label and image alternative text; its context is available in a native details/summary section. Tiles wrap naturally on narrow screens. The GitHub symbol uses code brackets rather than a copied mark. The project remains text with normal links. Navigation targets follow the rendered headings.
 
-## References
+The greeting uses a 680 px intrinsic width with a responsive GitHub image constraint. Other images are individually bounded. Transparent hero variants are selected with picture/source. Essential introduction, scope and links remain accessible as HTML/Markdown. Static art requires no reduced-motion fallback.
 
-- https://github.com/Andrew6rant/Andrew6rant — theme-aware SVG selection; independent artwork here.
-- https://github.com/gautamkrishnar — purpose-led project descriptions and clear links.
-- https://github.com/BrunnerLivio/BrunnerLivio — a memorable personal signature; no copied artwork or guestbook.
-- https://github.com/tobiager/readme-builder — modular asset organization. Its rendered README was unavailable during the audit, limiting that comparison.
+Palette: violet #BD93F9, pink #F3A6CE, muted #C4B6D4, ink #211B2B; light theme text #5D3290, #A32F68 and #685977. See validation.md for measured contrast and actual validation limits.
 
 ## Maintenance
 
-Update factual content in README.md. Synchronize the two heroes except their borders. Add projects when public code and documentation substantiate their descriptions, and contact information only when authorized. See validation.md for actual checks and limitations.
+Edit README.md for factual changes. Keep hero.svg and hero-light.svg synchronized in content, using their respective theme colors. Add contacts only when authorized, projects when substantiated, and tools only when evidenced. No token, scheduled workflow or image provider is necessary.
