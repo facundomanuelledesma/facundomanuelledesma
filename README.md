@@ -1,49 +1,66 @@
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero.svg" alt="FML / DEV — Small steps. Clear documentation." width="100%">
+  <img src="assets/hero.svg" width="680" alt="Hola, soy Facundo — FML / DEV. Welcome to my little corner of GitHub.">
 </picture>
 
-# Hi, I'm Facundo
+**Practical projects. Small steps. Clear documentation.**
 
-Exploring software through practical projects and technical documentation.
+[About me](#about-me) · [Tech & tools](#tech--tools) · [Selected work](#selected-work)
 
-[Selected work](#selected-work) · [Tools in context](#tools-in-context) · [GitHub](https://github.com/facundomanuelledesma)
+</div>
 
-## About me
+<br>
 
-I'm Facundo, and this is where I share my technical projects and the documentation behind them. My public work includes a collaborative Moodle upgrade project with a PHP configuration template, a PowerShell helper, and a documented Git branching workflow. The project is still in progress: its upgrade milestones and validation results remain to be recorded. Here, I keep the scope and status of that work visible alongside the repository.
+<h2 align="center">About me</h2>
 
-## Tools in context
+I'm Facundo. My public work brings together practical technical projects and the documentation behind them. I'm part of a collaborative Moodle upgrade project, where configuration templates, a PowerShell helper, and a documented Git workflow support the team's next steps. This profile is a small window into that work: the tools involved, the scope of the project, and the progress recorded in its repository.
 
-Technologies present in the featured repository, with their current scope.
+<h2 align="center">Tech &amp; tools</h2>
 
-| Area | Technology | Evidence |
-| :--- | :--- | :--- |
-| Languages | **PowerShell · PHP** | CLI helper and configuration template |
-| Platform | **Moodle** | Staged upgrade workflow |
-| Database | **MariaDB** | Selected in the configuration template |
-| Development tools | **Git · GitHub** | Documented branching and team handoffs |
+<p align="center">
+  <img src="assets/icons/powershell.svg" width="76" height="80" alt="PowerShell">
+  <img src="assets/icons/php.svg" width="76" height="80" alt="PHP">
+  <img src="assets/icons/moodle.svg" width="76" height="80" alt="Moodle">
+  <img src="assets/icons/mariadb.svg" width="76" height="80" alt="MariaDB">
+  <img src="assets/icons/git.svg" width="76" height="80" alt="Git">
+  <img src="assets/icons/github.svg" width="76" height="80" alt="GitHub">
+</p>
 
-## Selected work
+<p align="center"><sub>Tools present in my public work · no proficiency ratings</sub></p>
 
-### 01 / Moodle Upgrade Workflow
+<details>
+<summary>How these tools are used</summary>
 
-**Collaborative project · In progress**
+- **PowerShell:** helper for Moodle maintenance and upgrade commands.
+- **PHP:** Moodle configuration template and CLI commands.
+- **Moodle:** platform covered by the staged upgrade project.
+- **MariaDB:** database selected in the configuration template.
+- **Git & GitHub:** documented branching and team handoffs.
 
-A shared workspace for planning staged Moodle upgrades and coordinating handoffs between contributors. It brings configuration guidance, maintenance commands, and an upgrade log into one repository.
+</details>
 
-- **Problem:** keeping upgrade steps, environment requirements, and team handoffs documented in one place.
-- **Technical detail:** a PowerShell helper groups upgrade, cache purge, maintenance, and version-check commands; a PHP template describes the local configuration.
-- **Current scope:** workflow documentation and supporting files. Completed migrations and successful test runs are not yet evidenced in the upgrade log.
+<h2 align="center">Selected work</h2>
 
-**PowerShell · PHP · Moodle · MariaDB configuration · Git**
+<p align="center"><strong>Moodle Upgrade Workflow</strong><br><sub>Collaborative project · In progress</sub></p>
 
-[Explore the repository →](https://github.com/facundomanuelledesma/moodle_actualizacion) · [Read the upgrade log](https://github.com/facundomanuelledesma/moodle_actualizacion/blob/main/BITACORA_ACTUALIZACION.md)
+A shared workspace for planning staged Moodle upgrades, documenting environment requirements, and coordinating handoffs. Includes a PHP configuration template, a PowerShell CLI helper, and an upgrade log.
 
----
+<p align="center">
+  <a href="https://github.com/facundomanuelledesma/moodle_actualizacion">Explore the project ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/facundomanuelledesma/moodle_actualizacion/blob/main/BITACORA_ACTUALIZACION.md">Upgrade log</a>
+</p>
 
-<img src="assets/signature.svg" alt="fml --next: explore, build, document" width="420">
+<p align="center"><sub>Upgrade milestones and validation results are still to be recorded.</sub></p>
 
-## Let's connect
+<h2 align="center">Let's connect</h2>
 
-Find my public work on [GitHub @facundomanuelledesma](https://github.com/facundomanuelledesma).
+<p align="center">
+  <a href="https://github.com/facundomanuelledesma"><img src="assets/connect.svg" width="220" height="48" alt="Explore my GitHub profile"></a>
+</p>
+
+<p align="center">
+  <img src="assets/signature.svg" width="340" alt="FML / DEV — explore, build, document.">
+</p>
